@@ -4,6 +4,7 @@
   "description": "The sequelize CLI.",
   "main": "index.js",
   "dependencies": {
+    "babel-register": "^6.9.0",
     "bluebird": "^3.3.4",
     "cli-color": "~0.3.2",
     "findup-sync": "^0.4.0",
