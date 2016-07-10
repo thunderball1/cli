@@ -2,7 +2,7 @@
 
 'use strict';
 
-require('babel-register')
+require('babel-register');
 
 var spawn   = require('child_process').spawn;
 var path    = require('path');
